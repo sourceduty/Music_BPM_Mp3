@@ -1,3 +1,10 @@
+# Music_BPM_Mp3_10
+
+# ♫ Estimate the BPM of ten MP3 files.
+
+# Copyright (C) 2023, Sourceduty - All Rights Reserved.
+# THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
+
 import librosa
 import numpy as np
 import os
